@@ -3,7 +3,7 @@
 Containerized the application using Docker (Multi-stage build) and deployed it on Kubernetes with Helm charts.
 2. Configured an Ingress controller for secure application exposure and implemented DNS mapping for domain routing.
 Optimized deployment efficiency by 40% by automating testing and infrastructure provisioning.
-Tech Stack: Golang, Docker, Kubernetes, Helm, GitHub Actions, Argo CD, AWS/GCP
+Tech Stack: Golang, Docker, Kubernetes, Helm, GitHub Actions, Argo CD, AWS
 
 
 
